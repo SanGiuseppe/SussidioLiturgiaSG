@@ -231,7 +231,7 @@ function parseSource(text) {
     res = res.replace(/\{indice\}/g, indice);
 
     // immagini
-    for (let k of ["croce", "risposta", "musica"]) {
+    for (let k of ["croce", "risposta", "musica", "Salmo"]) {
         let r = new RegExp("\\{" + k + "\\}", "g");
         res = res.replace(r, '<img class="' + k + '" src="' + k + '.svg">');
     }

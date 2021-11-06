@@ -42,7 +42,7 @@ Quella andò e fece come aveva detto Elia; poi mangiarono lei, lui e la casa di 
 ## Sal~145
 
 / {risposta} Loda il Signore, anima mia.
-{img auto 4em salmo.svg}
+{img auto 4em Salmo.svg}
 Il Signore rimane fedele per sempre
 rende giustizia agli oppressi,
 dà il pane agli affamati.

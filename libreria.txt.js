@@ -22,9 +22,6 @@ io lo so com'è buono il Signore
 nella vita vicino mi sarà.
 
 
-
-
-
 #{musica} Gloria nell'alto dei cieli
 [Mariano]
 

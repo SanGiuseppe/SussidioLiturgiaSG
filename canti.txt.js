@@ -40,9 +40,9 @@ Quella andò e fece come aveva detto Elia; poi mangiarono lei, lui e la casa di 
 # Salmo responsoriale
 
 ## Sal~145
+>{Salmo}
 
 / {risposta} Loda il Signore, anima mia.
-
 Il Signore rimane fedele per sempre
 rende giustizia agli oppressi,
 dà il pane agli affamati.

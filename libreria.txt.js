@@ -128,22 +128,22 @@ in questo misterioso incontro col tuo Figlio.
 Ti offriamo il pane che Tu ci dai; 
 trasformalo in Te, Signor.
 
-Benedetto nei secoli il Signore, 
-infinita sorgente della vita, 
-benedetto nei secoli, benedetto nei secoli!
+>Benedetto nei secoli il Signore, 
+>infinita sorgente della vita, 
+>benedetto nei secoli, benedetto nei secoli!
 
 Accogli i nostri doni, Dio dell'universo, 
 in questo misterioso incontro col tuo Figlio. 
 Ti offriamo il vino che Tu ci dai;
 trasformalo in Te, Signor.
 
-Benedetto nei secoli il Signore, 
-infinita sorgente della vita
-benedetto nei secoli, benedetto nei secoli!
+>Benedetto nei secoli il Signore, 
+>infinita sorgente della vita
+>benedetto nei secoli, benedetto nei secoli!
 /(Si sale di un tono)
-Benedetto nei secoli il Signore, 
-infinita sorgente della vita
-benedetto nei secoli, benedetto nei secoli!
+>Benedetto nei secoli il Signore, 
+>infinita sorgente della vita
+>benedetto nei secoli, benedetto nei secoli!
 
 
 #{musica} Santo [2 Buttazzo]
@@ -208,7 +208,7 @@ ed amare come hai amato Tu.
 
 >Fammi diventare amore,
 >segno della Tua libertà,
-fammi diventare amore,
+>fammi diventare amore,
 >segno della Tua verità.
 
 Signore, io Ti prego con il cuore,

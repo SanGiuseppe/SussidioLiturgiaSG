@@ -17,7 +17,7 @@ Benvenuto nella Parrocchia di San Giuseppe a Nuoro.
 
 --------------------------------------------------------------------------------
 
-{gloria a dio [mariano]}
+{Gloria a Dio (Buttazzo)}
 
 --------------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ Invece ora, una volta sola, nella pienezza dei tempi, egli è apparso per annull
 --------------------------------------------------------------------------------
 
 .Acclamazione al Vangelo 
-{alleluia (passeranno i cieli)}
+{alleluia Irlandese}
 
 ##Alleluia, alleluia.
 
@@ -110,26 +110,23 @@ Allora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: qu
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{nelle tue mani}
+{Accogli i nostri doni}
 
 --------------------------------------------------------------------------------
 
 @. Santo
-{santo [bonfitto]}
-
---------------------------------------------------------------------------------
-
-{agnello di dio}
+{Santo [2 Buttazzo]}
 
 --------------------------------------------------------------------------------
 
 . Comunione
-{resta qui con noi, si fa sera}
+{Preghiera}
+{Il pane del cammino}
 
 --------------------------------------------------------------------------------
 
 . Dopo Comunione
-{tu sei santo, tu sei re}
+{Insegnaci o Signore}
 
 --------------------------------------------------------------------------------
 
@@ -138,7 +135,7 @@ Allora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: qu
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{resta qui con noi}
+{Vivi con noi la festa}
 
 --------------------------------------------------------------------------------
 

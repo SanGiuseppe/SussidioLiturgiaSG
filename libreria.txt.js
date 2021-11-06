@@ -26,6 +26,7 @@ nella vita vicino mi sarà.
 
 
 #{musica} Gloria nell'alto dei cieli
+[Mariano]
 
 >Gloria, gloria a Dio.
 >Gloria, gloria nell’alto dei cieli.
@@ -64,51 +65,111 @@ del Padre.
 
 
 
-#{musica} Uno spirito nuovo
+#{musica} Gloria a Dio (Buttazzo)
 
-Ringrazio te Signore per questo immenso amore,
-solo in te io rivivrò.
-Concludi un'alleanza, rinnova questo cuor,
-e camminerò con te nella fedeltà.
+>Gloria a Dio nell'alto dei cieli
+>pace in terra agli uomini!
+>Gloria a Dio nell'alto dei cieli
+>pace in terra agli uomini!
 
->Metti in me uno spirito nuovo,
->con acqua viva mi purificherai.
->Poni in me la tua legge Signore,
->sul mio cuore la scriverai.
+1) Ti lodiamo, Ti benediciamo,
+Ti adoriamo, Ti glorifichiamo
+Ti rendiamo grazie
+per la tua gloria immensa!
+
+>Gloria a Dio nell'alto dei cieli...
+
+2) Signore Dio, Re del cielo,
+Dio, Padre onnipotente
+Gesù Cristo, Agnello di Dio:
+tu, Figlio del Padre!
+
+>Gloria a Dio nell'alto dei cieli...
+
+3) Tu che togli i peccati del mondo
+la nostra supplica ascolta o Signore
+Tu che siedi alla destra del Padre
+abbi pietà di noi!
+
+>Gloria a Dio nell'alto dei cieli...
+
+4) Tu solo il Santo, Tu solo il Signore
+Tu l'Altissimo, Gesù Cristo
+con lo Spirito Santo 
+nella gloria del Padre!
+
+>Gloria a Dio nell'alto dei cieli...
 
 
 
-#{musica} Il nostro cuore offriamo~a~te {media https://www.youtube.com/watch?v=DJhhcQ5LGWY}
 
-Con il pane e con il vino
-noi ti offriamo la vita,
-dalle mani del tuo servo
-prendi, o Padre, il nostro dono.
+#{musica} Ti offriamo
 
->Il nostro cuore offriamo a te,
->su questo altare lo presentiamo,
->il nostro cuore è pieno di te,
->su questo altare lo accoglierai.
+#{musica} Su questo altare ti offriamo il nostro giorno,
+tutto quello che abbiamo lo doniamo a Te.
+L'amare, il gioire, il dolore di questo giorno,
+su questo altare doniamo a Te.
 
-Della terra portiamo il frutto
-che tu accogli, Signore,
-una mensa per noi prepari,
-segno eterno del tuo amore.
+Fa’ di tutti noi un corpo, un'anima sola
+che porta a Te tutta l'umanità.
+E fa’ che il tuo amore ci trasformi in Te
+come il pane ed il vino che ora Ti offriamo.
 
->Il nostro cuore offriamo a te...
+Fa’ di tutti noi un corpo, un'anima sola
+che porta a Te tutta l'umanità.
+E fa’ che il tuo amore ci trasformi in Te
+come il pane ed il vino 
+che ora Ti offriamo,
+come il pane ed il vino 
+che ora Ti offriamo…
 
-Con i santi a te veniamo
-Rendici uno o Signore
-Benedici i tuoi figli
-qui riuniti nel tuo nome
 
->Il nostro cuore offriamo a te...
+#{musica} Accogli i nostri doni
 
-/Veniamo a te con voci di lode,
-/il tuo amore ci trasformerà,
-/offriamo a te il cuore, la vita.
+Accogli i nostri doni, Dio dell'universo, 
+in questo misterioso incontro col tuo Figlio. 
+Ti offriamo il pane che Tu ci dai; 
+trasformalo in Te, Signor.
 
->Il nostro cuore offriamo a te...
+Benedetto nei secoli il Signore, 
+infinita sorgente della vita, 
+benedetto nei secoli, benedetto nei secoli!
+
+Accogli i nostri doni, Dio dell'universo, 
+in questo misterioso incontro col tuo Figlio. 
+Ti offriamo il vino che Tu ci dai;
+trasformalo in Te, Signor.
+
+Benedetto nei secoli il Signore, 
+infinita sorgente della vita
+benedetto nei secoli, benedetto nei secoli!
+/(Si sale di un tono)
+Benedetto nei secoli il Signore, 
+infinita sorgente della vita
+benedetto nei secoli, benedetto nei secoli!
+
+
+#{musica} Santo [2 Buttazzo]
+
+Santo, Santo, Santo
+il Signore Dio dell'universo.
+I cieli e la terra sono pieni 
+della tua gloria!
+	
+Osanna, osanna, osanna! 
+Osanna nell'alto dei cieli!
+Benedetto colui che viene 
+nel nome del Signore!
+
+Osanna, osanna, osanna! 
+Osanna nell'alto dei cieli!
+Osanna! Osanna! Osanna 
+Cantiamo a te Signore!
+
+Osanna, osanna, osanna! 
+Osanna nell'alto dei cieli!
+Osanna! Osanna! Osanna 
+nell'alto dei cieli!
 
 
 
@@ -141,95 +202,89 @@ Osanna, osanna nell'alto dei cieli.
 
 
 
-#{musica} Con~questo~pane, con~questo~vino {media https://www.youtube.com/watch?v=lDs1qm3nJyE}
+#{musica} Preghiera
 
-In questo pane noi riceviamo il vero corpo
-del Salvatore che si fa cibo per tutti noi.
->Con questo pane,
->con questo vino,
->Gesù Signore
->dimora in mezzo a noi,
->è la salvezza
->offerta ad ogni uomo.
-In questo vino noi riceviamo il vero sangue
-dell'alleanza che è bevanda per tutti noi.
->Con questo pane...
-Su questa mensa noi celebriamo il sacrificio
-del Redentore che ci consacra nel suo amore.
->Con questo pane...
+Signore, io Ti prego con il cuore, 
+la mia vita voglio offrire in mano a Te.
+voglio solamente te servire,
+ed amare come hai amato Tu.
 
+>Fammi diventare amore,
+>segno della Tua libertà,
+fammi diventare amore,
+>segno della Tua verità.
 
+Signore, io Ti prego con il cuore,
+rendi forte la mia fede più che mai
+dammi Tu la forza per seguirti,
+e per camminare sempre insieme a Te.
 
-#{musica} Parla al mio cuore
-
-? Quando il profeta Elia fuggì dall’Oreb, si rifugiò in una caverna sul monte \
-Carmelo. <<Ci fu un vento impetuoso e gagliardo da spaccare i monti e spezzare \
-le rocce davanti al Signore, ma il Signore non era nel vento. Dopo il vento, \
-un terremoto, ma il Signore non era nel terremoto. Dopo il terremoto, un \
-fuoco, ma il Signore non era nel fuoco. Dopo il fuoco, il sussurro di una \
-brezza leggera. Come l'udì, Elia si coprì il volto con il mantello, uscì e si \
-fermò all'ingresso della caverna.>>
-? Il Signore infatti era nella brezza: è nel silenzio che il Lui parla al \
-nostro cuore, come una brezza leggera.
-
-Parla al mio cuore o Signore,
-nel silenzio più intenso ti riconoscerò,
-e una brezza soave accarezza il mio cuore,
-solo tu sei per sempre, e sei per sempre con me, ti cerco.
-
-Parla al mio cuore o Signore,
-nella notte più buia io t'incontrerò,
-tu sei luce del mondo, sole senza tramonto,
-sei sorgente di vita scaturita per me, per me.
-
->Guardo te Signore, guardi me,
->tu da sempre mi conosci,
->nel profondo mi guarisci.
->Vivo del tuo amore, vivi in me,
->voce eterna che mi chiama,
->presenza che perdona.
-
-Parla al mio cuore o Signore,
-nel silenzio più intenso la tua voce udirò,
-in questo tempo di grazia sento la tua bellezza,
-solo tu resti sempre, e non passerai mai, ti amo.
-
-Parla al mio cuore o Signore,
-nella notte più lunga io t'invocherò,
-tu sei luce del mondo, sole senza tramonto,
-misericordia infinita, riversata in me, in me.
-
->Guardo te Signore...
-
-/Parla al mio cuore.
-/Parla al mio cuore.
-/Parla al mio cuore.
-/Parla al mio cuore.
-
->Guardo te Signore...
-
-Parla al mio cuore Gesù, io ti ascolto.
+Signore, io ti prego con il cuore:
+dammi sempre la tua fedeltà;
+fa' ch'io possa correre nel mondo
+e cantare a tutti la tua libertà.
 
 
 
-#{musica} Ascolta la nostra lode
+#{musica} Insegnaci o Signore
 
-Danzeremo nel tuo nome, 
-per le strade esulteremo,
-costruiremo la tua pace, 
-che ogni uomo invochi Dio.
->Là nei cieli e sulla terra
->questo canto giungerà,
->là sui monti e per le valli
->questa lode correrà.
-Splenderemo nella fede
-camminando insieme o te,
-dalla Croce che ci guida
-la tua gloria brillerà.
->Là nei cieli e sulla terra...
+Insegnaci o Signore a sceglier solo Te
+a dirti sì ogni giorno della nostra vita.
+Concedi di seguirti senza più paura 
+e di amarti sempre più di ogni cosa...
 
-Alleluia, alleluia, alleluia, alleluia. (6 volte)
->Là nei cieli e sulla terra...
+>Rendici fratelli Tu che ci hai riuniti 
+>e facci testimoni davanti a tutti 
+>di ciò che abbiamo visto, 
+>di ciò che abbiamo udito 
+>perché noi crediamo solo in Te.
+
+Donaci un cuore grande come il Tuo
+che non si stanchi mai d'amare e di donare
+il mondo ti sta cercando, ha bisogno di Te,
+che sei la verità, la strada e vita...
+
+>Facci diventare santi come Te 
+>e rendi trasparente in noi la vita
+>Fa' che i nostri fratelli vedendo 
+>noi vedano Te cercando noi trovino Te 
+>ed il Tuo Amor...
+
+
+
+
+#{musica} Il pane del cammino
+
+>Il tuo popolo in cammino 
+>cerca in te la guida
+>sulla strada verso il Regno, 
+>sei sostegno col tuo corpo; 
+>resta sempre con noi, o Signore!
+
+E' il tuo Pane, Gesù, che ci dà forza
+e rende più sicuro il nostro passo.
+Se il vigore nel cammino si svilisce
+la tua mano dona lieta la speranza.
+
+E' il tuo vino, Gesù, che ci disseta
+e sveglia in noi l'ardore di seguirti.
+Se la gioia cede il passo alla stanchezza
+la tua voce fa rinascere freschezza.
+
+E' il tuo corpo, Gesù, che ci fa Chiesa, 
+fratelli sulle strade della vita.
+Se il rancore toglie luce all'amicizia,
+dal tuo cuore nasce giovane il perdono.
+
+E' il tuo sangue, Gesù, il segno eterno
+dell'unico linguaggio dell'amore.
+Se il donarsi come te richiede fede,
+nel tuo Spirito sfidiamo l'incertezza.
+
+E' il tuo dono, Gesù, la vera fonte, 
+del gesto coraggioso di chi annuncia. 
+Se la chiesa non è aperta ad ogni uomo, 
+il tuo fuoco le rivela la missione.
 
 
 
@@ -260,6 +315,28 @@ per adorare Te.
 Con un cuore solo, con un cuore solo,
 con un cuore solo,
 con un cuore solo, con un cuore solo.
+
+
+#{musica} Vivi con noi la festa
+
+>Grazie, Gesù, che vivi con noi la vita,
+>oggi è più bella ancora insieme a te!
+>Grazie, Gesù, che vivi con noi la festa,
+>grazie, Gesù, perché hai chiamato noi!
+
+Grazie, Gesù, che hai messo nel nostro cuore 
+il desiderio vivo della tua festa. 
+Grazie, perché ci chiami ancora insieme a rinnovar la festa della tua Pasqua insieme a te.
+
+Grazie per tutti quelli che ci amano:
+cercano tutto il bene da dare a noi.
+Grazie, quando ci parlano poi di te: 
+un amor più grande il nostro cuore conoscerà.
+
+Grazie, per ogni uomo che crede in te: 
+con la tua gioia il mondo trasformerà. 
+Grazie, per chi lavora con umiltà: 
+semina la giustizia e la tua pace raccoglierà.
 
 
 
@@ -658,7 +735,7 @@ con te fra noi il deserto fiorirà.
 
 
 
-#{musica} Alleluia (passeranno i cieli) {media https://www.youtube.com/watch?v=Gm7yWtC3AB0}
+#{musica} Alleluia Irlandese {media https://www.youtube.com/watch?v=Gm7yWtC3AB0}
 
 
 

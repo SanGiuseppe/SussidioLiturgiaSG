@@ -37,8 +37,8 @@ Quella andò e fece come aveva detto Elia; poi mangiarono lei, lui e la casa di 
 
 --------------------------------------------------------------------------------
 
-# Salmo responsoriale
-{Salmo}
+# Salmo responsoriale{Salmo}
+
 ## Sal~145
 
 
